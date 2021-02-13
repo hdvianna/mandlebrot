@@ -1,5 +1,5 @@
 /**
- * Developed by Henrique Damasceno Vianna - Twitter: @hdvianna
+ * Developed by Henrique Damasceno Vianna - https://www.linkedin.com/in/hdvianna/
  *
  * Solution for the exercise of high performance computing class from
  * the Unisinos Graduate Programa of Applied Computing - September/2016
